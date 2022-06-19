@@ -1554,13 +1554,13 @@ Now, you have a very good understanding of how to create JSX elements and also h
 
 #### Exercises: What is React?
 
-1. What is React? ``` React is a declarative, efficient, and flexible JavaScript library for building user interfaces ```
+1. What is React?                                                                                                                                                   ``` React is a declarative, efficient, and flexible JavaScript library for building user interfaces ```
 2. What is a library? 
-3. What is a single page application? ``` A Single Page Application is a website or web application that dynamically rewrites the current web page with new data from the web server ```
-4. What is a component ? ``` Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML ```
+3. What is a single page application?                                                                                                                               ``` A Single Page Application is a website or web application that dynamically rewrites the current web page with new data from the web server ```
+4. What is a component ?                                                                                                                                            ``` Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML ```
 5. What is the latest version of React?
-6. What is DOM? ``` DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from the document. ```
-7. What is React Virtual DOM? ``` virtual DOM is just a copy of the original DOM kept in the memory and synced with the real DOM by libraries such as ReactDOM. ```
+6. What is DOM?                                                                                                                                                     ``` DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from the document. ```
+7. What is React Virtual DOM?                                                                                                                                       ``` virtual DOM is just a copy of the original DOM kept in the memory and synced with the real DOM by libraries such as ReactDOM. ```
 8. What does a web application or a website(composed of) have?
 
 #### Exercises: Why React?
@@ -1575,8 +1575,10 @@ Now, you have a very good understanding of how to create JSX elements and also h
 2. How to write a self closing HTML element?
 3. What is an HTML attribute? Write some of them
 4. What is JSX?
-5. What is babel? ``` Babel is a transpiler i.e. it converts the JSX to vanilla JavaScript. You can view babel as an intermediate step between your code and "executable" code. React also uses ES6, which is not supported by most of the browsers. Babel converts the ES6 code to a code which is compatible with the browsers ```
-6. What is a transpiler?  ``` Transpiler is a source to source compiler which converts code of one programming language to another programming language ```
+5. What is babel? 
+``` Babel is a transpiler i.e. it converts the JSX to vanilla JavaScript. You can view babel as an intermediate step between your code and "executable" code. React also uses ES6, which is not supported by most of the browsers. Babel converts the ES6 code to a code which is compatible with the browsers ```
+6. What is a transpiler?  
+``` Transpiler is a source to source compiler which converts code of one programming language to another programming language ```
 
 #### Exercises: JSX Elements
 
